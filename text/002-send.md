@@ -1,6 +1,6 @@
 - Project Name: `send`
 - Start Date: 2021-02-18
-- Project PR: [laosdirg/ideas#1](https://github.com/laosdirg/ideas/pull/1)
+- Project PR: [laosdirg/ideas#2](https://github.com/laosdirg/ideas/pull/2)
 
 # Summary
 
